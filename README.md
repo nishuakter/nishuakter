@@ -1,4 +1,7 @@
-### Hi there 👋
+ 👋Hi,I'm Nishu!I'm a CSE undergraduate at State University Of Bangladesh
+ 👀I love learning new technologies and contributing to open source
+ 🌱I’m currently learning introduction to Artifical Intelligence.
+ I have experience of basic knowledge of c programming and Database
 
 <!--
 **nishuakter/nishuakter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
